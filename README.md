@@ -9,7 +9,7 @@ To control the position of motor having the following specifications using MATLA
 ## Apparatus Required:
 Computer with MATLAB software
 ## Theory: 
-
+<img width="714" height="1280" alt="image" src="https://github.com/user-attachments/assets/82814ef5-644e-451b-afe3-9c7d31357962" />
 
 ## Procedure:
 1.	Open MATLAB software
